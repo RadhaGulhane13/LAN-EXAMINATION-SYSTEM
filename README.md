@@ -1,7 +1,8 @@
 # LAN-EXAMINATION-SYSTEM
+![Architecture Diagram!](docs/LAN_arch_diag.png)
 
 ## About LAN EXAMINATION SYSTEM:
-LAN EXAMINATION SYSTEM is a secured, scalable, and efficient platform to conduct the online exam in the LAN environment over the pen-paper way. 
+LAN EXAMINATION SYSTEM is a secured, scalable, and efficient platform to conduct the online exam in the LAN environment over the pen-paper way.
 It is a client-server-based project where the server module as an examiner is responsible for handling activities such as conducting exams, client authentication, and database management.
 The client module is developed for the students with a graphical user interface(GUI), which will provide a secured online exam environment for students. It will be responsible for getting questionaries from the server and sending the responses from students back to the server.
 
